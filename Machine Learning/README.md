@@ -166,6 +166,10 @@
 - [Corona Virus Outbreak Prediction](https://github.com/Shubhra-31/MindWave/tree/main/Machine%20Learning/AdaBoost_CERN%20Electron%20Collision)
 
 - [Hold Out Cross Validation - Chemical Content in Wine ](https://github.com/KaviRana/MindWave/tree/main/Machine%20Learning/Hold%20out%20CV%20-%20ChemicalContentinWine)
+
+- [Leave One Out CV - California Housing Dataset](https://github.com/KaviRana/MindWave/tree/main/Machine%20Learning/LOOCV%20-%20California%20Housing%20Dataset)
+
+- [Stratified K fold CV technique - Credit Card Fraud Detection](https://github.com/KaviRana/MindWave/tree/main/Machine%20Learning/Stratified%20K-fold%20CV%20-%20Credit%20Card%20Fraud%20Detection)
   
 ## Datasets
 
